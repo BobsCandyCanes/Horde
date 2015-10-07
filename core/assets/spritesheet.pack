@@ -1,0 +1,47 @@
+
+spritesheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ring
+  rotate: false
+  xy: 1, 1
+  size: 502, 502
+  orig: 502, 502
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 505, 289
+  size: 227, 214
+  orig: 227, 214
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 505, 137
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+drone
+  rotate: false
+  xy: 734, 439
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+queen
+  rotate: false
+  xy: 734, 439
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+projectile
+  rotate: false
+  xy: 505, 103
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
